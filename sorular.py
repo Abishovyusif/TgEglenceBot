@@ -1,6 +1,6 @@
 C_LİST=[
 	
-]"İstədiyiniz sosial media hesabında çox çirkin bir şəklinizi paylaşın.", "Telefonunuzda mesaj bölməsini açın, gözlərinizi yumun və təsadüfi bir adama kor -koranə bir mesaj göndərin.",
+"İstədiyiniz sosial media hesabında çox çirkin bir şəklinizi paylaşın.", "Telefonunuzda mesaj bölməsini açın, gözlərinizi yumun və təsadüfi bir adama kor -koranə bir mesaj göndərin.",
  "Növbəti 5 dəqiqə ərzində dediklərinizin hamısından sonra" mee "deyəcəksiniz",
  "Önümüzdəki 5 dəqiqədə kiminsə ev heyvanı olun.", "İnstagramınızı oyunçulardan birinə verin. 5 dəqiqə hər yerə baxmaq üçün sərbəst olun.",
  "Oyundan bir insana serenad edin (oğlan qız olarsa, qız oğlan olarsa)", "Növbəti 3 növbədə ləhcə danışın.",
