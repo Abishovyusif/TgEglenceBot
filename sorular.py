@@ -1,5 +1,4 @@
 C_LİST=[
-	
 "İstədiyiniz sosial media hesabında çox çirkin bir şəklinizi paylaşın.", "Telefonunuzda mesaj bölməsini açın, gözlərinizi yumun və təsadüfi bir adama kor -koranə bir mesaj göndərin.",
  "Növbəti 5 dəqiqə ərzində dediklərinizin hamısından sonra" mee "deyəcəksiniz",
  "Önümüzdəki 5 dəqiqədə kiminsə ev heyvanı olun.", "İnstagramınızı oyunçulardan birinə verin. 5 dəqiqə hər yerə baxmaq üçün sərbəst olun.",
@@ -44,9 +43,9 @@ C_LİST=[
  "Məşhur restoranlardan birini çağırın və menyusunu öyrənərkən lağ edin.",
  "Keçmişinizə mesaj yazın və onu unuda bilməyəcəyinizi söyləyin.", "" Siz "sözünü 2 tur eşitdiyiniz zaman quş kimi səslənin.",
  "Telefonda hər kəsin brauzer tarixçəsini göstər"
-
+]
 D_LİST = [
-	"Telefonunuza son zəng etdiyiniz şey nə idi?", "Biri qız yoldaşınızdan/sevgilinizdən ayrılmaq üçün sizə 1 milyon dollar təklif etsə, edərsinizmi?",
+"Telefonunuza son zəng etdiyiniz şey nə idi?", "Biri qız yoldaşınızdan/sevgilinizdən ayrılmaq üçün sizə 1 milyon dollar təklif etsə, edərsinizmi?",
  "Bu qrupda ən çox kimdən xoşunuz gəlir və niyə?", "Heç sinifdə yüksək səslə ağlamısınızmı?",
  "Dərsdə nə vaxtsa yüksək səslə ağlamısanmı?", "Yerdən bir şey götürüb yedinmi?",
  "Bir gün əks cins olaraq oyansan, ilk növbədə nə edərsən?",
